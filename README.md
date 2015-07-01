@@ -29,12 +29,14 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 
 
 ## Module 模块
+
 - [yii2-user](https://github.com/dektrium/yii2-user)
 - [yii2-setting](https://github.com/funson86/yii2-setting)：常见的在后台设置,可以使用在任何地方
 - [yii2-wechat](https://github.com/callmez/yii2-wechat)：基于Yii2实现的微信模块
 
 
 ## Widgets 小部件
+
 - [kartik-v](http://demos.krajee.com/)：kartik-v 高产合集
 - [2amigos](http://yiiwheels.com/)：2amigos 团队高产合集
 - [yii2-beanstalk](https://github.com/udokmeci/yii2-beanstalk)：beanstalk 队列
@@ -50,4 +52,17 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 
 ## Helpers 助手 
 
+## 文章
+
+- [Yii2 Day 1~7 系列文章](http://my.oschina.net/u/248080/blog?catalog=3273266) 文章不是非常深入，但是对初学者非常有用
+- [Yii2 - What you need to know](http://blog.hashsolutions.in/technology/yii2-need-know/)
+- [使用Yii2时遇到的实际问题](http://segmentfault.com/a/1190000002428574)
+
+## 视频
+
+- [与《YII框架》不得不说的故事—基础篇](http://www.imooc.com/video/7854) 讲的很基础，建议初学者过一遍
+- [yii框架入门](http://www.maiziedu.com/course/php/317-3140/)
+- [深入理解 Yii2.0 视频](http://v.youku.com/v_show/id_XODY4NDQ5NzA0.html?f=23331432&from=y1.7-1.3)
+- [Yii2 Development Visualization - youtube](https://www.youtube.com/watch?v=NMjA5N7kbEQ&feature=youtu.be) / [三分钟看尽Yii2开发的三年历程 - 优酷](http://v.youku.com/v_show/id_XODA4NTIyNjYw.html?from=y1.2-1-87.3.3-1.1-1-1-2)
+- [Yii2 Lessons - youtube](https://www.youtube.com/playlist?list=PLRd0zhQj3CBmusDbBzFgg3H20VxLx2mkF)
 
