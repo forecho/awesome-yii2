@@ -12,7 +12,6 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [Yii Framework 2.0 中文权威指南 ](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN)
 - [Yii2 官方文档及其他文本的中文本土化项目](https://github.com/yii2-chinesization/yii2-zh-cn)
 - [yii2-cookbook](https://github.com/samdark/yii2-cookbook)
-- [深入理解Yii2.0](http://www.digpage.com/)
 
 ## 基于 Yii2 的开源程序
 
@@ -48,19 +47,24 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 ## Behaviors 行为
 
 
+## Helpers 助手
 
 
-## Helpers 助手 
-
-## 文章
+## Posts 文章
 
 - [Yii2 Day 1~7 系列文章](http://my.oschina.net/u/248080/blog?catalog=3273266) 文章不是非常深入，但是对初学者非常有用
 - [Yii2 - What you need to know](http://blog.hashsolutions.in/technology/yii2-need-know/)
 - [使用Yii2时遇到的实际问题](http://segmentfault.com/a/1190000002428574)
+- [深入理解 Yii2.0](http://www.digpage.com/)
+- [Bsourcecode Yii2.0 系列文章（英文）](http://www.bsourcecode.com/yiiframework2/)
+- [krajee Yii2.0 系列文章（英文）](http://webtips.krajee.com/tag/yii/)
+- [PHP开源框架Yii2系列](http://www.cnblogs.com/ganiks/tag/yii2/)：有很多关于 Yii2 RESTful 的使用
 
-## 视频
 
-- [与《YII框架》不得不说的故事—基础篇](http://www.imooc.com/video/7854) 讲的很基础，建议初学者过一遍
+## Videos 视频
+
+- [与《YII框架》不得不说的故事—基础篇](http://www.imooc.com/view/404)：讲的很基础，建议初学者过一遍
+- [与《YII框架》不得不说的故事—高效篇](http://www.imooc.com/view/440)：主要讲了缓存和 Gii 的使用
 - [yii框架入门](http://www.maiziedu.com/course/php/317-3140/)
 - [深入理解 Yii2.0 视频](http://v.youku.com/v_show/id_XODY4NDQ5NzA0.html?f=23331432&from=y1.7-1.3)
 - [Yii2 Development Visualization - youtube](https://www.youtube.com/watch?v=NMjA5N7kbEQ&feature=youtu.be) / [三分钟看尽Yii2开发的三年历程 - 优酷](http://v.youku.com/v_show/id_XODA4NTIyNjYw.html?from=y1.2-1-87.3.3-1.1-1-1-2)
