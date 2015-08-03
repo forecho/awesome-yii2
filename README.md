@@ -12,6 +12,7 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [Yii Framework 2.0 中文权威指南 ](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN)
 - [Yii2 官方文档及其他文本的中文本土化项目](https://github.com/yii2-chinesization/yii2-zh-cn)
 - [yii2-cookbook](https://github.com/samdark/yii2-cookbook)
+- [yii2-Cookbook 系列教程](http://www.tutorial-zoo.com/yii-2)
 
 ## 基于 Yii2 的开源程序
 
@@ -25,6 +26,7 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [MoBlog](https://github.com/mojifan/MoBlog)：一个基于Yii2的博客系统
 - [easyii](https://github.com/noumo/easyii)：基于 Yii2 的 CMS 系统
 - [yii2-starter-kit](https://github.com/trntv/yii2-starter-kit)：Yii2 开箱即用
+- [v2sex](https://github.com/chonder/v2sex)：基于 Yii2 打造的 V2EX
 
 
 ## Module 模块
