@@ -38,10 +38,12 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [yii2-user](https://github.com/dektrium/yii2-user)
 - [yii2-setting](https://github.com/funson86/yii2-setting)：常见的在后台设置,可以使用在任何地方
 - [yii2-wechat](https://github.com/callmez/yii2-wechat)：基于Yii2实现的微信模块
+- [CostaRico/yii2-images](https://github.com/CostaRico/yii2-images)：图片尺寸裁剪解决方案
 
 
 ## Widgets 小部件
 
+- [kop/yii2-scroll-pager](https://github.com/kop/yii2-scroll-pager)：瀑布滚动翻页
 
 
 ## Extension 扩展
@@ -57,9 +59,13 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 
 ## Behaviors 行为
 
+- [creocoder/yii2-nested-sets](https://github.com/creocoder/yii2-nested-sets)：无限极嵌套分类
+- [creocoder/yii2-taggable](https://github.com/creocoder/yii2-taggable)：文章标签解决方案
+- [OmgDef/yii2-multilingual-behavior](https://github.com/OmgDef/yii2-multilingual-behavior)：多语言文章解决方案
 
 ## Helpers 助手
 
+- [kartik-v/yii2-helpers](https://github.com/kartik-v/yii2-helpers)：[HTML](http://demos.krajee.com/helper-functions/html) 和 [枚举](http://demos.krajee.com/helper-functions/enum)的 helper
 
 ## Posts 文章
 
