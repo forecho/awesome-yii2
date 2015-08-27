@@ -56,6 +56,7 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [yii2-imagine](https://github.com/yiisoft/yii2-imagine)：图片处理，缩略图生成
 - [yii2-yunpian](https://github.com/dcb9/yii2-yunpian)：一个基于 Yii2 的短信 SDK
 - [crontab](https://github.com/yii2tech/crontab)：Yii2 定时任务
+- [yii2-contextmenu](https://github.com/liyunfang/yii2-contextmenu)：Yii2 grid行右击操作
 
 ## Behaviors 行为
 
