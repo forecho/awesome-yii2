@@ -61,7 +61,8 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [crontab](https://github.com/yii2tech/crontab)：Yii2 定时任务
 - [yii2-contextmenu](https://github.com/liyunfang/yii2-contextmenu)：Yii2 grid行右击操作
 - [yii2-smser](https://github.com/daixianceng/yii2-smser)：国内短信扩展
-- [yiidoc/yii2-redactor](https://github.com/yiidoc/yii2-redactor)：大名鼎鼎的[Redactor](http://imperavi.com/redactor/)编辑器
+- [yiidoc/yii2-redactor](https://github.com/yiidoc/yii2-redactor)：大名鼎鼎的 [Redactor](http://imperavi.com/redactor/) 在线编辑器
+- [jamband/yii2-schemadump](https://github.com/jamband/yii2-schemadump)：用命令的方式对现有的数据库生成数据库迁移代码，内有 gif 演示。
 
 ## Behaviors 行为
 
