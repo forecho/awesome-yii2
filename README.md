@@ -87,6 +87,7 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [与《YII框架》不得不说的故事—基础篇](http://www.imooc.com/view/404)：讲的很基础，建议初学者过一遍
 - [与《YII框架》不得不说的故事—高效篇](http://www.imooc.com/view/440)：主要讲了缓存和 Gii 的使用
 - [与《YII框架》不得不说的故事—安全篇](http://www.imooc.com/learn/467)：主要讲了 XSS 和 CSRF 等
+- [与《YII框架》不得不说的故事—扩展篇](http://www.imooc.com/learn/491)：主要讲了模块化、事件机制和行为还有依赖注入，话题越来越高级，很赞。
 - [yii框架入门](http://www.maiziedu.com/course/php/317-3140/)
 - [深入理解 Yii2.0 视频](http://v.youku.com/v_show/id_XODY4NDQ5NzA0.html?f=23331432&from=y1.7-1.3)
 - [Yii2 Development Visualization - youtube](https://www.youtube.com/watch?v=NMjA5N7kbEQ&feature=youtu.be) / [三分钟看尽Yii2开发的三年历程 - 优酷](http://v.youku.com/v_show/id_XODA4NTIyNjYw.html?from=y1.2-1-87.3.3-1.1-1-1-2)
