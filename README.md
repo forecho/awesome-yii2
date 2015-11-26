@@ -30,6 +30,7 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [yii2-starter-kit](https://github.com/trntv/yii2-starter-kit)：Yii2 开箱即用
 - [yunjianyi](https://github.com/chonder/yunjianyi)：基于 Yii2 打造的 V2EX
 - [yii2-platform-basic](https://github.com/gromver/yii2-platform-basic)：基于 Yii2  基础版打造的 CMS
+- [lulucms2](https://github.com/yiifans/lulucms2) ：LuLu CMS2，模块化开发，集成强大的权限管理功能，非常适合二次开发
 
 
 ## Module 模块
