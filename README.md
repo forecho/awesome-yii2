@@ -48,6 +48,7 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 
 - [kop/yii2-scroll-pager](https://github.com/kop/yii2-scroll-pager)：瀑布滚动翻页
 - [yii2-widget-linkpager](https://github.com/liyunfang/yii2-widget-linkpager)：带分页大小的分页栏
+- [yii2-ajaxform](https://github.com/lichunqiang/yii2-ajaxform)：通过ajax提交表单
 
 
 ## Extension 扩展
