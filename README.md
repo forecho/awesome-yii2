@@ -14,6 +14,7 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [yii2-cookbook](https://github.com/samdark/yii2-cookbook)
 - [yii2-Cookbook 系列教程](http://www.tutorial-zoo.com/yii-2)
 - [yii2-coding-standards](https://github.com/yiisoft/yii2-coding-standards)：Yii2 代码标准检查
+- [yii2-learning](http://dixonsatit.github.io/yii2-learning/):是俄文的！但是可以看一下代码。
 
 
 ## 基于 Yii2 的开源程序
