@@ -43,6 +43,7 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [yii2-setting](https://github.com/funson86/yii2-setting)：常见的在后台设置,可以使用在任何地方
 - [yii2-wechat](https://github.com/callmez/yii2-wechat)：基于Yii2实现的微信模块
 - [CostaRico/yii2-images](https://github.com/CostaRico/yii2-images)：图片尺寸裁剪解决方案
+- [myweishanli/yii2-extjs-rbac](https://github.com/myweishanli/yii2-extjs-rbac)：Yii2 ExtJs5 RBAC+ACL 权限管理系统
 
 
 ## Widgets 小部件
