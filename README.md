@@ -73,6 +73,7 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [trntv/yii2-aceeditor](https://github.com/trntv/yii2-aceeditor)：Yii2 封装 [ace 在线编辑器](https://ace.c9.io/)
 - [zelenin/yii2-semantic-ui](https://github.com/zelenin/yii2-semantic-ui)：Yii2 封装 [Semantic UI](http://semantic-ui.com/)
 - [yiier/yii2-backup](https://github.com/yiier/yii2-backup)：通过命令备份数据库的扩展，可以添加到定时任务实现定时备份发送到 Email。
+- [lichunqiang/yii2-swagger](https://github.com/lichunqiang/yii2-swagger)：Yii2 结合 [swagger](http://swagger.io/) 让写 API 文档不再是难事。[Demo 地址](https://github.com/lichunqiang/yii2-swagger-demo)
 
 ## Behaviors 行为
 
