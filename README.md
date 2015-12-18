@@ -33,7 +33,8 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [yii2-platform-basic](https://github.com/gromver/yii2-platform-basic)：基于 Yii2  基础版打造的 CMS
 - [lulucms2](https://github.com/yiifans/lulucms2) ：LuLu CMS2，模块化开发，集成强大的权限管理功能，非常适合二次开发
 - [hassiumsoft/hasscms-app](https://github.com/hassiumsoft/hasscms-app)：基于 Yii2 开发的 一个现代的、轻量级的、可扩展的PHP CMS 系统。
-
+- [yiisoft-contrib/yiiframework.com](https://github.com/yiisoft-contrib/yiiframework.com)：新版官网首页正在开发中
+- [githubjeka/angular-yii2](https://github.com/githubjeka/angular-yii2)：yii2 restful + angular 实现前后端分离
 
 ## Module 模块
 
