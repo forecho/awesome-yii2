@@ -27,7 +27,7 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [huajuan](https://github.com/callmez/huajuan)：Yii2 实现的问答,微信,文章系统 Demo
 - [dcms2](https://github.com/djfly/dcms2)：yii2编写的cms
 - [MoBlog](https://github.com/mojifan/MoBlog)：一个基于Yii2的博客系统
-- [easyii](https://github.com/noumo/easyii)：基于 Yii2 的 CMS 系统
+- [EasyiiCMS](https://github.com/noumo/easyii)：基于 Yii2 的 CMS 系统
 - [yii2-starter-kit](https://github.com/trntv/yii2-starter-kit)：Yii2 开箱即用
 - [yunjianyi](https://github.com/chonder/yunjianyi)：基于 Yii2 打造的 V2EX
 - [yii2-platform-basic](https://github.com/gromver/yii2-platform-basic)：基于 Yii2  基础版打造的 CMS
@@ -35,6 +35,8 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [hassiumsoft/hasscms-app](https://github.com/hassiumsoft/hasscms-app)：基于 Yii2 开发的 一个现代的、轻量级的、可扩展的PHP CMS 系统。
 - [yiisoft-contrib/yiiframework.com](https://github.com/yiisoft-contrib/yiiframework.com)：新版官网首页正在开发中
 - [githubjeka/angular-yii2](https://github.com/githubjeka/angular-yii2)：yii2 restful + angular 实现前后端分离
+- [zephir/luya](https://github.com/zephir/luya)：基于Yii2 CMS的编程框架。
+- [humhub](https://github.com/humhub/humhub)：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
 
 ## Module 模块
 
@@ -46,6 +48,8 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [yii2-wechat](https://github.com/callmez/yii2-wechat)：基于Yii2实现的微信模块
 - [CostaRico/yii2-images](https://github.com/CostaRico/yii2-images)：图片尺寸裁剪解决方案
 - [myweishanli/yii2-extjs-rbac](https://github.com/myweishanli/yii2-extjs-rbac)：Yii2 ExtJs5 RBAC+ACL 权限管理系统
+- [bedezign/yii2-audit](https://github.com/bedezign/yii2-audit)：记录和显示web/cli请求，数据库更改php/js错误和相关数据。
+- [Chiliec/yii2-vote](https://github.com/Chiliec/yii2-vote)：提供点赞的模块
 
 
 ## Widgets 小部件
@@ -54,6 +58,7 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [yii2-widget-linkpager](https://github.com/liyunfang/yii2-widget-linkpager)：带分页大小的分页栏
 - [yii2-ajaxform](https://github.com/lichunqiang/yii2-ajaxform)：通过ajax提交表单
 - [lichunqiang/yii2-sweet-submit](https://github.com/lichunqiang/yii2-sweet-submit)：[sweetalert](https://github.com/t4t5/sweetalert)一个漂亮的弹出框
+- [bizley/yii2-content-tools](https://github.com/bizley/yii2-content-tools)：Yii2 实现 [ContentTools](http://getcontenttools.com/) 编辑器
 
 
 ## Extension 扩展
@@ -82,6 +87,7 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [creocoder/yii2-nested-sets](https://github.com/creocoder/yii2-nested-sets)：无限极嵌套分类
 - [creocoder/yii2-taggable](https://github.com/creocoder/yii2-taggable)：文章标签解决方案
 - [OmgDef/yii2-multilingual-behavior](https://github.com/OmgDef/yii2-multilingual-behavior)：多语言文章解决方案
+- [creocoder/yii2-nested-sets](https://github.com/creocoder/yii2-nested-sets)：嵌套，无限级分类
 
 ## Helpers 助手
 
