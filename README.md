@@ -37,6 +37,7 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [githubjeka/angular-yii2](https://github.com/githubjeka/angular-yii2)：yii2 restful + angular 实现前后端分离
 - [zephir/luya](https://github.com/zephir/luya)：基于Yii2 CMS的编程框架。
 - [humhub](https://github.com/humhub/humhub)：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
+- [xiaoego.com](https://github.com/daixianceng/xiaoego.com)：xiaoego.com源码，校园O2O购物平台。
 
 ## Module 模块
 
