@@ -1,7 +1,12 @@
 awesome-yii2
 ================
-Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最好是你用过的，并且觉得好用的）
+Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提交过来的开源项目最好是你用过的，并且觉得好用的）
 
+## Sites 网站
+
+- [yiifeed](http://yiifeed.com/)：Yii 最新动态都在这里
+- [yiigist](https://yiigist.com/)：Yii 专用的 Packages
+- [my-yii](https://www.my-yii.com/)：Yii 学习资料和新闻
 
 ## Docs 文档
 
