@@ -125,8 +125,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 
 
-## 赞助
+## Donate 赞助
 
 ![微信支付](https://raw.githubusercontent.com/iiYii/getyii/master/wechat-pay.png)![支付宝支付](https://raw.githubusercontent.com/iiYii/getyii/master/ali-pay.png)
 
-手机微信或者支付宝扫描上方二维码可向本项目赞助，如果你角色这个干货集对你很有帮助，帮你节省了大量的找资料时间，欢迎赞助。
+手机微信或者支付宝扫描上方二维码可向本项目赞助，如果你觉得这个「干货集」对你很有帮助，帮你节省了大量的找资料时间，欢迎赞助。
