@@ -122,3 +122,11 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [Yii2 Development Visualization - youtube](https://www.youtube.com/watch?v=NMjA5N7kbEQ&feature=youtu.be) / [三分钟看尽Yii2开发的三年历程 - 优酷](http://v.youku.com/v_show/id_XODA4NTIyNjYw.html?from=y1.2-1-87.3.3-1.1-1-1-2)
 - [Yii2 Lessons - youtube](https://www.youtube.com/playlist?list=PLRd0zhQj3CBmusDbBzFgg3H20VxLx2mkF)
 - [魏曦的 Yii2.0 视频教程](http://i.youku.com/weixistyle) 与 [源码 michaelweixi/Yii2Blog](https://github.com/michaelweixi/Yii2Blog)
+
+
+
+## 赞助
+
+![微信支付](https://raw.githubusercontent.com/iiYii/getyii/master/wechat-pay.png)![支付宝支付](https://raw.githubusercontent.com/iiYii/getyii/master/ali-pay.png)
+
+手机微信或者支付宝扫描上方二维码可向本项目赞助，如果你角色这个干货集对你很有帮助，帮你节省了大量的找资料时间，欢迎赞助。
