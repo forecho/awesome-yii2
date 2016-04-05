@@ -43,6 +43,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [zephir/luya](https://github.com/zephir/luya)：基于Yii2 CMS的编程框架。
 - [humhub](https://github.com/humhub/humhub)：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
 - [xiaoego.com](https://github.com/daixianceng/xiaoego.com)：xiaoego.com源码，校园O2O购物平台。
+- [YeeCMS](https://github.com/yeesoft/yii2-yee-cms)：基于 Yii2 的 CMS，独到之处是借用 composer 安装卸载模块，你看看他的 [composer.json](https://github.com/yeesoft/yii2-yee-cms/blob/master/composer.json) 文件你就知道了。
+
 
 ## Module 模块
 
