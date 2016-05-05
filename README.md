@@ -75,6 +75,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [kartik-v](http://demos.krajee.com/)：kartik-v 高产合集
 - [2amigos](http://yiiwheels.com/)：2amigos 团队高产合集
 - [yii2tech](https://github.com/yii2tech)：yii2tech 团队合集
+- [wbraganca](http://wbraganca.com/yii2extensions)：又一个扩展集合，包括收货地址、上传图片、动态嵌套表单、选择框、标签框、上传图片、视频等扩展，最重要的是有在线 demo 体验。
 - [yii2-beanstalk](https://github.com/udokmeci/yii2-beanstalk)：beanstalk 队列
 - [yii2-imagine](https://github.com/yiisoft/yii2-imagine)：图片处理，缩略图生成
 - [yii2-yunpian](https://github.com/dcb9/yii2-yunpian)：一个基于 Yii2 的短信 SDK
