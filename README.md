@@ -1,7 +1,12 @@
 awesome-yii2
 ================
-Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最好是你用过的，并且觉得好用的）
+Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提交过来的开源项目最好是你用过的，并且觉得好用的）
 
+## Sites 网站
+
+- [yiifeed](http://yiifeed.com/)：Yii 最新动态都在这里
+- [yiigist](https://yiigist.com/)：Yii 专用的 Packages
+- [my-yii](https://www.my-yii.com/)：Yii 学习资料和新闻
 
 ## Docs 文档
 
@@ -38,6 +43,8 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [zephir/luya](https://github.com/zephir/luya)：基于Yii2 CMS的编程框架。
 - [humhub](https://github.com/humhub/humhub)：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
 - [xiaoego.com](https://github.com/daixianceng/xiaoego.com)：xiaoego.com源码，校园O2O购物平台。
+- [YeeCMS](https://github.com/yeesoft/yii2-yee-cms)：基于 Yii2 的 CMS，独到之处是借用 composer 安装卸载模块，你看看他的 [composer.json](https://github.com/yeesoft/yii2-yee-cms/blob/master/composer.json) 文件你就知道了。
+
 
 ## Module 模块
 
@@ -68,6 +75,7 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [kartik-v](http://demos.krajee.com/)：kartik-v 高产合集
 - [2amigos](http://yiiwheels.com/)：2amigos 团队高产合集
 - [yii2tech](https://github.com/yii2tech)：yii2tech 团队合集
+- [wbraganca](http://wbraganca.com/yii2extensions)：又一个扩展集合，包括收货地址、上传图片、动态嵌套表单、选择框、标签框、上传图片、视频等扩展，最重要的是有在线 demo 体验。
 - [yii2-beanstalk](https://github.com/udokmeci/yii2-beanstalk)：beanstalk 队列
 - [yii2-imagine](https://github.com/yiisoft/yii2-imagine)：图片处理，缩略图生成
 - [yii2-yunpian](https://github.com/dcb9/yii2-yunpian)：一个基于 Yii2 的短信 SDK
@@ -75,12 +83,15 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [crontab](https://github.com/yii2tech/crontab)：Yii2 定时任务
 - [yii2-contextmenu](https://github.com/liyunfang/yii2-contextmenu)：Yii2 grid行右击操作
 - [yii2-smser](https://github.com/daixianceng/yii2-smser)：国内短信扩展
+- [yii2-echarts](https://github.com/daixianceng/yii2-echarts)：Yii2 ECharts扩展
 - [yiidoc/yii2-redactor](https://github.com/yiidoc/yii2-redactor)：大名鼎鼎的 [Redactor](http://imperavi.com/redactor/) 在线编辑器
 - [jamband/yii2-schemadump](https://github.com/jamband/yii2-schemadump)：用命令的方式对现有的数据库生成数据库迁移代码，内有 gif 演示。
 - [DenisOgr/yii2-cronjobs](https://github.com/DenisOgr/yii2-cronjobs)：用系统计划任务来每分钟运行这个PHP计划任务，然后你程序的计划任务的调用就写在 cron 这个控制器里就可以了。
 - [trntv/yii2-aceeditor](https://github.com/trntv/yii2-aceeditor)：Yii2 封装 [ace 在线编辑器](https://ace.c9.io/)
 - [zelenin/yii2-semantic-ui](https://github.com/zelenin/yii2-semantic-ui)：Yii2 封装 [Semantic UI](http://semantic-ui.com/)
 - [yiier/yii2-backup](https://github.com/yiier/yii2-backup)：通过命令备份数据库的扩展，可以添加到定时任务实现定时备份发送到 Email。
+- [yiier/yii2-aliyun-oss](https://github.com/yiier/yii2-aliyun-oss)：基于官网 SDK 封装的 Yii2 使用阿里云OSS。
+- [yiier/yiier-return-url](https://github.com/yiier/yiier-return-url)：登录之后自动跳转登录之前的页面。
 - [lichunqiang/yii2-swagger](https://github.com/lichunqiang/yii2-swagger)：Yii2 结合 [swagger](http://swagger.io/) 让写 API 文档不再是难事。[Demo 地址](https://github.com/lichunqiang/yii2-swagger-demo)
 
 ## Behaviors 行为
@@ -93,6 +104,7 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 ## Helpers 助手
 
 - [kartik-v/yii2-helpers](https://github.com/kartik-v/yii2-helpers)：[HTML](http://demos.krajee.com/helper-functions/html) 和 [枚举](http://demos.krajee.com/helper-functions/enum)的 helper
+- [DevGroup-ru/yii2-tag-dependency-helper](https://github.com/DevGroup-ru/yii2-tag-dependency-helper)：非常棒的缓存设计方法，具体实现可以参考 [dotplant2](https://github.com/DevGroup-ru/dotplant2) 代码。
 
 ## Posts 文章
 
@@ -117,3 +129,11 @@ Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最�
 - [Yii2 Development Visualization - youtube](https://www.youtube.com/watch?v=NMjA5N7kbEQ&feature=youtu.be) / [三分钟看尽Yii2开发的三年历程 - 优酷](http://v.youku.com/v_show/id_XODA4NTIyNjYw.html?from=y1.2-1-87.3.3-1.1-1-1-2)
 - [Yii2 Lessons - youtube](https://www.youtube.com/playlist?list=PLRd0zhQj3CBmusDbBzFgg3H20VxLx2mkF)
 - [魏曦的 Yii2.0 视频教程](http://i.youku.com/weixistyle) 与 [源码 michaelweixi/Yii2Blog](https://github.com/michaelweixi/Yii2Blog)
+
+
+
+## Donate 赞助
+
+![微信支付](https://raw.githubusercontent.com/iiYii/getyii/master/wechat-pay.png)![支付宝支付](https://raw.githubusercontent.com/iiYii/getyii/master/ali-pay.png)
+
+手机微信或者支付宝扫描上方二维码可向本项目赞助，如果你觉得这个「干货集」对你很有帮助，帮你节省了大量的找资料时间，欢迎赞助。
