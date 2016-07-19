@@ -67,6 +67,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [yii2-ajaxform](https://github.com/lichunqiang/yii2-ajaxform)：通过ajax提交表单
 - [lichunqiang/yii2-sweet-submit](https://github.com/lichunqiang/yii2-sweet-submit)：[sweetalert](https://github.com/t4t5/sweetalert)一个漂亮的弹出框
 - [bizley/yii2-content-tools](https://github.com/bizley/yii2-content-tools)：Yii2 实现 [ContentTools](http://getcontenttools.com/) 编辑器
+- [bupy7/yii2-dynamic-fields](https://github.com/bupy7/yii2-dynamic-fields)：表单动态增加行的组件（demo可以看[Adding dynamic field](http://formvalidation.io/examples/adding-dynamic-field/)）
 
 
 ## Extension 扩展
