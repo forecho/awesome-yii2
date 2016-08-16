@@ -25,7 +25,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 ## 基于 Yii2 的开源程序
 
 - [GetYii](https://github.com/iiyii/getyii)：论坛
-- [dotplant2](https://github.com/DevGroup-ru/dotplant2)：来自俄罗斯的商城
+- [dotplant2](https://github.com/DevGroup-ru/dotplant2)：来自俄罗斯的电子商务CMS
 - [yincart2](https://github.com/yincart2/galaxy)：电商星系系统，提供零售、批发、特卖、垂直电商、分销、O2O、C2C、移动电商、微信电商、社交电商、P2P、众筹等电商解决方案，根据需要选择不同的模块组合
 - [yii2-shop](https://github.com/samdark/yii2-shop)：使用Yii 2.0实现简单商店的示例项目
 - [funshop](https://github.com/funson86/funshop)：一个灵活的商城。
