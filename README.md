@@ -95,6 +95,10 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [yiier/yii2-aliyun-oss](https://github.com/yiier/yii2-aliyun-oss)：基于官网 SDK 封装的 Yii2 使用阿里云OSS。
 - [yiier/yiier-return-url](https://github.com/yiier/yiier-return-url)：登录之后自动跳转登录之前的页面。
 - [lichunqiang/yii2-swagger](https://github.com/lichunqiang/yii2-swagger)：Yii2 结合 [swagger](http://swagger.io/) 让写 API 文档不再是难事。[Demo 地址](https://github.com/lichunqiang/yii2-swagger-demo)
+- [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset)：大名鼎鼎的 [AdminLTE](https://github.com/almasaeed2010/AdminLTE) 开源后台，我现在很多后台就用这个。配合[Yii2 使用 AdminLTE 模板](http://www.getyii.com/topic/564)教程使用更佳。
+- [boundstate/yii2-mailgun](https://github.com/boundstate/yii2-mailgun)：mailgun 邮箱服务扩展。
+- [abhi1693/yii2-system-info](https://github.com/abhi1693/yii2-system-info)：获取 Windows 或者 Linux 系统信息。
+- [imanilchaudhari/yii2-rrssb](https://github.com/imanilchaudhari/yii2-rrssb)：分享到社交网络（主要是针对国外一些网站）。
 
 ## Behaviors 行为
 
