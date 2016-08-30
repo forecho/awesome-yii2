@@ -99,6 +99,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [boundstate/yii2-mailgun](https://github.com/boundstate/yii2-mailgun)：mailgun 邮箱服务扩展。
 - [abhi1693/yii2-system-info](https://github.com/abhi1693/yii2-system-info)：获取 Windows 或者 Linux 系统信息。
 - [imanilchaudhari/yii2-rrssb](https://github.com/imanilchaudhari/yii2-rrssb)：分享到社交网络（主要是针对国外一些网站）。
+- [alexandernst/yii2-device-detect](https://github.com/alexandernst/yii2-device-detect)：获取访问网站的设备信息。
 
 ## Behaviors 行为
 
