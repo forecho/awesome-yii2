@@ -100,6 +100,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [imanilchaudhari/yii2-rrssb](https://github.com/imanilchaudhari/yii2-rrssb)：分享到社交网络（主要是针对国外一些网站）。
 - [alexandernst/yii2-device-detect](https://github.com/alexandernst/yii2-device-detect)：获取访问网站的设备信息。
 - [yiister/yii2-advanced-grid](https://github.com/yiister/yii2-advanced-grid)：高级版的 grid，有[在线 demo](http://yiister.ru/projects/advanced-grid) 体验。
+- [hellowearemito/yii2-sentry](https://github.com/hellowearemito/yii2-sentry)： 收集日志神器——[Sentry](https://getsentry.com/) 的 Yii2 扩展。
 
 ## Themes 主题模板
 
