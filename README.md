@@ -58,8 +58,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [myweishanli/yii2-extjs-rbac](https://github.com/myweishanli/yii2-extjs-rbac)：Yii2 ExtJs5 RBAC+ACL 权限管理系统
 - [bedezign/yii2-audit](https://github.com/bedezign/yii2-audit)：记录和显示web/cli请求，数据库更改php/js错误和相关数据。
 - [Chiliec/yii2-vote](https://github.com/Chiliec/yii2-vote)：提供点赞的模块
-
-
+- [codemix/yii2-bs3activeform](https://github.com/codemix/yii2-bs3activeform) :Yii2 表单增强模块，有[在线 Demo](http://codemix.github.io/yii2-bs3activeform/index.html)。
 ## Widgets 小部件
 
 - [kop/yii2-scroll-pager](https://github.com/kop/yii2-scroll-pager)：瀑布滚动翻页
