@@ -24,6 +24,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## 基于 Yii2 的开源程序
 
+- [IBOS](https://github.com/seekart/ibos)：基于Yii开发的免费开源的，快速、高效的协同办公管理系统，功能模块化，方便二次开发，支持移动、微信平台。来自国内用户体验最好的互联网OA办公管理系统。 
 - [GetYii](https://github.com/iiyii/getyii)：论坛
 - [dotplant2](https://github.com/DevGroup-ru/dotplant2)：来自俄罗斯的电子商务CMS
 - [yincart2](https://github.com/yincart2/galaxy)：电商星系系统，提供零售、批发、特卖、垂直电商、分销、O2O、C2C、移动电商、微信电商、社交电商、P2P、众筹等电商解决方案，根据需要选择不同的模块组合
