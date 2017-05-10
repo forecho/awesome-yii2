@@ -45,6 +45,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [xiaoego.com](https://github.com/daixianceng/xiaoego.com)：xiaoego.com源码，校园O2O购物平台。
 - [YeeCMS](https://github.com/yeesoft/yii2-yee-cms)：基于 Yii2 的 CMS，独到之处是借用 composer 安装卸载模块，你看看他的 [composer.json](https://github.com/yeesoft/yii2-yee-cms/blob/master/composer.json) 文件你就知道了。
 - [Fecshop](https://github.com/fancyecommerce/yii2_fecshop) ：Fecshop 全称为 Fancy ECommerce Shop，是基于 PHP Yii2框架之上开发的一款优秀的开源电商系统。
+- [jamband/plusarchive.com](https://github.com/jamband/plusarchive.com)：如果想在 Yii2 中使用 webpack，可以参考这个项目。
 
 ## Module 模块
 
@@ -102,6 +103,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [alexandernst/yii2-device-detect](https://github.com/alexandernst/yii2-device-detect)：获取访问网站的设备信息。
 - [yiister/yii2-advanced-grid](https://github.com/yiister/yii2-advanced-grid)：高级版的 grid，有[在线 demo](http://yiister.ru/projects/advanced-grid) 体验。
 - [hellowearemito/yii2-sentry](https://github.com/hellowearemito/yii2-sentry)： 收集日志神器——[Sentry](https://getsentry.com/) 的 Yii2 扩展。
+- [zhuravljov/yii2-queue](https://github.com/zhuravljov/yii2-queue)：有望成为官网异步扩展的队列
 
 ## Themes 主题模板
 
