@@ -88,7 +88,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [yii2-contextmenu](https://github.com/liyunfang/yii2-contextmenu)：Yii2 grid行右击操作
 - [yii2-smser](https://github.com/daixianceng/yii2-smser)：国内短信扩展
 - [yii2-echarts](https://github.com/daixianceng/yii2-echarts)：Yii2 ECharts扩展
-- [yiidoc/yii2-redactor](https://github.com/yiidoc/yii2-redactor)：大名鼎鼎的 [Redactor](http://imperavi.com/redactor/) 在线编辑器
+- [yiidoc/yii2-redactor](https://github.com/yiidoc/yii2-redactor)：大名鼎鼎的 [Redactor](http://imperavi.com/redactor/) 在线编辑器  
+- [Hzhihua/yii2-dump](https://github.com/Hzhihua/yii2-dump)：用命令行的方式自动对现有的数据库（SQL）生成数据库迁移（migrate）文件，内有预览图。
 - [jamband/yii2-schemadump](https://github.com/jamband/yii2-schemadump)：用命令的方式对现有的数据库（SQL）生成数据库迁移（migrate）代码，内有 gif 演示。
 - [DenisOgr/yii2-cronjobs](https://github.com/DenisOgr/yii2-cronjobs)：用系统计划任务来每分钟运行这个PHP计划任务，然后你程序的计划任务的调用就写在 cron 这个控制器里就可以了。
 - [trntv/yii2-aceeditor](https://github.com/trntv/yii2-aceeditor)：Yii2 封装 [ace 在线编辑器](https://ace.c9.io/)
