@@ -53,6 +53,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [zhuravljov/yii2-rest](https://github.com/zhuravljov/yii2-rest) Yii2 REST 客户端
 - [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) RBAC Manager 基于角色的权限管理
 - [yii2-user](https://github.com/dektrium/yii2-user)
+- [yii2-plugins-system](https://github.com/loveorigami/yii2-plugins-system) Yii2 plugins system module with event manager and shortcodes as WordPress
+- [yii2-notification-wrapper](https://github.com/loveorigami/yii2-notification-wrapper) Yii2-notification-wrapper module renders a message from session flash (with ajax, pjax support and etc.) through Growl, Noty, Toastr and more libraries
 - [yii2-setting](https://github.com/funson86/yii2-setting)：常见的在后台设置,可以使用在任何地方
 - [yii2-wechat](https://github.com/callmez/yii2-wechat)：基于Yii2实现的微信模块
 - [CostaRico/yii2-images](https://github.com/CostaRico/yii2-images)：图片尺寸裁剪解决方案
