@@ -126,6 +126,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 - [kartik-v/yii2-helpers](https://github.com/kartik-v/yii2-helpers)：[HTML](http://demos.krajee.com/helper-functions/html) 和 [枚举](http://demos.krajee.com/helper-functions/enum)的 helper
 - [DevGroup-ru/yii2-tag-dependency-helper](https://github.com/DevGroup-ru/yii2-tag-dependency-helper)：非常棒的缓存设计方法，具体实现可以参考 [dotplant2](https://github.com/DevGroup-ru/dotplant2) 代码。
+- [YII-AllRoutes](https://github.com/xinnianq/YII-AllRoutes) ：获取Application所有路由+注释
 
 ## Posts 文章
 
