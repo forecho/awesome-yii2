@@ -8,6 +8,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [yiigist](https://yiigist.com/)：Yii 专用的 Packages
 - [my-yii](https://www.my-yii.com/)：Yii 学习资料和新闻
 - [YiiPowered](http://yiipowered.com/en)：用 Yii 开发的项目案例，包括开源不开源的，包括 Yii1 和 Yii2，到目前为止有300多个案例了。
+- [Yii2 学习小专栏](https://xiaozhuanlan.com/yiier)：forecho 开的付费小专栏，欢迎有需要的朋友订阅。
 
 ## Docs 文档
 
