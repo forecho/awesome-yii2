@@ -49,6 +49,11 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [Fecshop](https://github.com/fancyecommerce/yii2_fecshop) ：Fecshop 全称为 Fancy ECommerce Shop，是基于 PHP Yii2框架之上开发的一款优秀的开源电商系统。
 - [jamband/plusarchive.com](https://github.com/jamband/plusarchive.com)：如果想在 Yii2 中使用 webpack，可以参考这个项目。
 
+## Component 组件
+
+- [robregonm/yii2-pdf](https://github.com/robregonm/yii2-pdf)：把 HTML 渲染成 PDF。
+- [yii2tech/balance](https://github.com/yii2tech/balance)：强大的钱包系统。
+
 ## Module 模块
 
 - [yii2-webshell](https://github.com/samdark/yii2-webshell) 在 web 下运行shell
@@ -64,6 +69,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [bedezign/yii2-audit](https://github.com/bedezign/yii2-audit)：记录和显示web/cli请求，数据库更改php/js错误和相关数据。
 - [Chiliec/yii2-vote](https://github.com/Chiliec/yii2-vote)：提供点赞的模块
 - [codemix/yii2-bs3activeform](https://github.com/codemix/yii2-bs3activeform) :Yii2 表单增强模块，有[在线 Demo](http://codemix.github.io/yii2-bs3activeform/index.html)。
+- [yii2mod/yii2-cashier](https://github.com/yii2mod/yii2-cashier)：帮你处理付费订阅棘手问题，比方说订阅专栏一个月/一年等。
 
 
 ## Widgets 小部件
@@ -122,6 +128,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [creocoder/yii2-taggable](https://github.com/creocoder/yii2-taggable)：文章标签解决方案
 - [OmgDef/yii2-multilingual-behavior](https://github.com/OmgDef/yii2-multilingual-behavior)：多语言文章解决方案
 - [creocoder/yii2-nested-sets](https://github.com/creocoder/yii2-nested-sets)：嵌套，无限级分类
+- [yii2mod/yii2-behaviors](https://github.com/yii2mod/yii2-behaviors)：两个行为，CarbonBehavior 处理跟时间日期有关系的事情。PurifyBehavior 使用 HTMLPurifier 保证输出数据的安全性。
+
 
 ## Helpers 助手
 
