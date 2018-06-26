@@ -115,6 +115,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [yiister/yii2-advanced-grid](https://github.com/yiister/yii2-advanced-grid)：高级版的 grid，有[在线 demo](http://yiister.ru/projects/advanced-grid) 体验。
 - [hellowearemito/yii2-sentry](https://github.com/hellowearemito/yii2-sentry)： 收集日志神器——[Sentry](https://getsentry.com/) 的 Yii2 扩展。
 - [zhuravljov/yii2-queue](https://github.com/zhuravljov/yii2-queue)：有望成为官网异步扩展的队列
+- [moonlandsoft/yii2-phpexcel](https://github.com/moonlandsoft/yii2-phpexcel)：导出 Excel
 
 ## Themes 主题模板
 
