@@ -128,7 +128,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [creocoder/yii2-nested-sets](https://github.com/creocoder/yii2-nested-sets)：无限极嵌套分类
 - [creocoder/yii2-taggable](https://github.com/creocoder/yii2-taggable)：文章标签解决方案
 - [OmgDef/yii2-multilingual-behavior](https://github.com/OmgDef/yii2-multilingual-behavior)：多语言文章解决方案
-- [creocoder/yii2-nested-sets](https://github.com/creocoder/yii2-nested-sets)：嵌套，无限级分类
+- [cornernote/yii2-softdelete](https://github.com/cornernote/yii2-softdelete)：软删除（伪删除）
 - [yii2mod/yii2-behaviors](https://github.com/yii2mod/yii2-behaviors)：两个行为，CarbonBehavior 处理跟时间日期有关系的事情。PurifyBehavior 使用 HTMLPurifier 保证输出数据的安全性。
 - [paulzi/yii2-nested-intervals](https://github.com/paulzi/yii2-nested-intervals)：数结构分类的行为、层级分类行为。
 
