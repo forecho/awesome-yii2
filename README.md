@@ -117,6 +117,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [zhuravljov/yii2-queue](https://github.com/zhuravljov/yii2-queue)：有望成为官网异步扩展的队列
 - [moonlandsoft/yii2-phpexcel](https://github.com/moonlandsoft/yii2-phpexcel)：导出 Excel
 - [windhoney/yii2-rest-rbac](https://github.com/windhoney/yii2-rest-rbac)：Yii2前后分离，权限管理rbac--rest接口方式
+- [imyangjin/yii2-mysql-json](https://github.com/imyangjin/yii2-mysql-json)：扩展Yii2的ActiveRecord和ActiveQuery支持mysql json格式。使mysql json字段的操作和yii2无缝对接，使用更加简单。
 
 ## Themes 主题模板
 
