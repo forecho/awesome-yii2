@@ -70,6 +70,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [Chiliec/yii2-vote](https://github.com/Chiliec/yii2-vote)：提供点赞的模块
 - [codemix/yii2-bs3activeform](https://github.com/codemix/yii2-bs3activeform) :Yii2 表单增强模块，有[在线 Demo](http://codemix.github.io/yii2-bs3activeform/index.html)。
 - [yii2mod/yii2-cashier](https://github.com/yii2mod/yii2-cashier)：帮你处理付费订阅棘手问题，比方说订阅专栏一个月/一年等。
+- [yiier/yii2-rbac](https://github.com/yiier/yii2-rbac): 又一个 RBAC 模块
+- [yiier/yii2-humans-log](https://github.com/yiier/yii2-humans-log): 人类能看得懂的操作日志
 
 
 ## Widgets 小部件
@@ -118,6 +120,9 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [moonlandsoft/yii2-phpexcel](https://github.com/moonlandsoft/yii2-phpexcel)：导出 Excel
 - [windhoney/yii2-rest-rbac](https://github.com/windhoney/yii2-rest-rbac)：Yii2前后分离，权限管理rbac--rest接口方式
 - [imyangjin/yii2-mysql-json](https://github.com/imyangjin/yii2-mysql-json)：扩展Yii2的ActiveRecord和ActiveQuery支持mysql json格式。使mysql json字段的操作和yii2无缝对接，使用更加简单。
+- [yiier/yii2-action-store](https://github.com/yiier/yii2-action-store): 让你不再为点赞、收藏等烦恼的扩展。
+- [yiier/yii2-smser](https://github.com/yiier/yii2-smser): 发短信
+- [yiier/yii2-notification](https://github.com/yiier/yii2-notification): 管理通知
 
 ## Themes 主题模板
 
