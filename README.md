@@ -168,6 +168,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [深入理解 Yii2.0 视频](http://v.youku.com/v_show/id_XODY4NDQ5NzA0.html?f=23331432&from=y1.7-1.3)
 - [Yii2 Development Visualization - youtube](https://www.youtube.com/watch?v=NMjA5N7kbEQ&feature=youtu.be) / [三分钟看尽Yii2开发的三年历程 - 优酷](http://v.youku.com/v_show/id_XODA4NTIyNjYw.html?from=y1.2-1-87.3.3-1.1-1-1-2)
 - [Yii2 Lessons - youtube](https://www.youtube.com/playlist?list=PLRd0zhQj3CBmusDbBzFgg3H20VxLx2mkF)
+- [Yii2 Lessons 2019 - youtube](https://www.youtube.com/watch?v=JD5Y-lQNrPs&list=PLLQuc_7jk__VZFYZa9uVbU2mYPbnfAMC6)
 - [魏曦的 Yii2.0 视频教程](http://i.youku.com/weixistyle) 与 [源码 michaelweixi/Yii2Blog](https://github.com/michaelweixi/Yii2Blog)
 
 
