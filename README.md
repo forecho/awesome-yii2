@@ -19,7 +19,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [yii2-cookbook](https://github.com/samdark/yii2-cookbook)
 - [yii2-coding-standards](https://github.com/yiisoft/yii2-coding-standards)：Yii2 代码标准检查
 - [yii2-learning](http://dixonsatit.github.io/yii2-learning/):是泰语的！但是可以看一下代码。
-
+- [Yii2 中文文档](https://learnku.com/docs/yii-framework/2.0.x)：2022年，作者参考官方权威指南，并结合多年 web 实战经验，对其进行再加工，更新中
 
 ## 基于 Yii2 的开源程序
 
@@ -120,6 +120,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [yiier/yii2-action-store](https://github.com/yiier/yii2-action-store): 让你不再为点赞、收藏等烦恼的扩展。
 - [yiier/yii2-smser](https://github.com/yiier/yii2-smser): 发短信
 - [yiier/yii2-notification](https://github.com/yiier/yii2-notification): 管理通知
+- [zhuzixian520/yii2-meilisearch](https://github.com/zhuzixian520/yii2-meilisearch)：Yii2 的 MeiliSearch 扩展，一款轻量级restful管理风格的搜索引擎
+- [zhuzixian520/yii2-api-doc](https://github.com/zhuzixian520/yii2-api-doc)：一个简单的 Yii2 注释生成 API 文档扩展
 
 ## Themes 主题模板
 
