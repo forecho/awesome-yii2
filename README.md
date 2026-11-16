@@ -79,6 +79,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [lichunqiang/yii2-sweet-submit](https://github.com/lichunqiang/yii2-sweet-submit)：[sweetalert](https://github.com/t4t5/sweetalert)一个漂亮的弹出框
 - [bizley/yii2-content-tools](https://github.com/bizley/yii2-content-tools)：Yii2 实现 [ContentTools](http://getcontenttools.com/) 编辑器
 - [bupy7/yii2-dynamic-fields](https://github.com/bupy7/yii2-dynamic-fields)：表单动态增加行的组件（demo可以看[Adding dynamic field](http://formvalidation.io/examples/adding-dynamic-field/)）
+- [iguazoft/yii2-ui](https://github.com/dannyrios81/yii2-ui)：39 个 Bootstrap 5 后台仪表盘组件（布局、侧边栏、指标卡片、Chart.js 图表、表格、表单），纯 PHP 配置
 
 
 ## Extension 扩展
@@ -122,6 +123,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [yiier/yii2-notification](https://github.com/yiier/yii2-notification): 管理通知
 - [zhuzixian520/yii2-meilisearch](https://github.com/zhuzixian520/yii2-meilisearch)：Yii2 的 MeiliSearch 扩展，一款轻量级restful管理风格的搜索引擎
 - [zhuzixian520/yii2-api-doc](https://github.com/zhuzixian520/yii2-api-doc)：一个简单的 Yii2 注释生成 API 文档扩展
+- [iguazoft/yii2-postman-generator](https://github.com/dannyrios81/yii2-postman-generator)：根据控制器中的 PHPDoc 注释生成 Postman 集合（v2.1），也可导入 Insomnia、Bruno、Hoppscotch
 
 ## Themes 主题模板
 
